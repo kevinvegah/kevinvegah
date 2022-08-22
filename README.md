@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm Kevin. Full-Stack Developer
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvegah&layout=compact" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvegah&layout=compact" />
+<br/>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/kevinvegah)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)](https://github.com/kevinvegah)
