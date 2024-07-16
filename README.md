@@ -1,8 +1,32 @@
-### 👋 Hi, I'm Kevin. Full-Stack Developer
+## ¡Hey 👋! I'm [Kevin Vega H](https://github.com/kevinvegah?tab=repositories) 👨🏻‍💻
 
+I'm a Full-stack Developer specializing in Frontend and Salesforce. I create user-friendly interfaces with React, aiming to enhance the user experience. I have experience in implementing and customizing Salesforce solutions. Additionally, I am skilled in Amazon Web Services (AWS) for scalable cloud solutions.
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvegah&layout=compact" />
-<br/>
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
+### What i'm up to
+- 🔭 I’m planning for a Project: **Summary App**
+- 🌱 I’m currently learning AWS and Accessibility
+- 💬 Ask me about Backend, Frontend and Salesforce development
+
+📫 How to reach me: kevin.vega.h@hotmail.com
+
+## Languages and Tools
+
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40"/></code>
+<code><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="40"></code>
+<code><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png" height="40"></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/salesforce_logo_icon_170764.png" alt="salesforce" height="40"/></code>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvegah&layout=compact" />
+
+<!--
+**kevinvegah/kevinvegah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/kevinvegah)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)](https://github.com/kevinvegah)
@@ -16,18 +40,6 @@
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)](https://github.com/kevinvegah) 
 [![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)](https://github.com/kevinvegah)
 [![VScode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)](https://github.com/kevinvegah) 
-
-
-- 🔭 I’m planning for a Project: **Travel Summary App**
-- 🌱 I’m currently learning Tailwind CSS and Docker
-- 💬 Ask me about Back-end and Front-End development
-
-
-
-<!--
-**kevinvegah/kevinvegah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
